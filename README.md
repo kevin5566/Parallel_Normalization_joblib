@@ -8,6 +8,7 @@
   - With any size of matrix, if each row is variable and column is data, then you can use this function to normalize data.
 * `main.py`: my testing code on my parallel function performance.
 * `data.csv`: the data I used.
+* `PDP_fn.pdf`: report of this project.
 
 ## Executing 
 1. Your machine should install joblib. Open terminal and type  
